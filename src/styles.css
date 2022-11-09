@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+/* project variables */
+:root {
+    --syt-primary-color: #252533;
+    --syt-secondary-color: #00ffc3;
+    --syt-white-color: #ffffff;
+    --syt-default-font: 'Poppins', sans-serif;
+}
