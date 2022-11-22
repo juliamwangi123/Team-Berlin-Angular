@@ -1,3 +1,5 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
 /* project variables */
 :root {
     --syt-primary-color: #252533;
